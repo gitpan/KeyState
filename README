@@ -4,7 +4,9 @@ Win32/KeyStates version 0.01
 Win32::KeyStates was created out of curiousity.  I was curious how
 one would go about polling the state of the "sticky" keys: CapsLock,
 NumLock, and ScrollLock.  This module is the result of that curiosity.
-It allows you to see if the keys are turned on or not.
+
+Microsoft has defined a set of "virtual" keys that can be polled.
+This modules allows you to do that.
 
 INSTALLATION
 

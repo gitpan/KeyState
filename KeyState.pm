@@ -50,7 +50,7 @@ sub SetScrollLock {} # Not yet implemented
 
 =head1 NAME
 
-Win32::KeyState - Get the status of the CapsLock, NumLock and ScrollLock keys
+Win32::KeyState - Get the status of "virtual" keys
 
 =head1 SYNOPSIS
 
